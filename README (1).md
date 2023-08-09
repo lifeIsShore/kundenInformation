@@ -34,24 +34,23 @@
 
 <h2>Images</h2> 
 
-![1](https://github.com/lifeIsShore/kundenInformation/assets/124509700/81d48bbe-fdb9-40d4-907d-649a13403f47)
+![1](https://github.com/lifeIsShore/kundenInformation/assets/124509700/726825b6-680e-4fd3-bb99-d242633809ed)
 
-![2](https://github.com/lifeIsShore/kundenInformation/assets/124509700/238040ba-c01e-421d-bd05-36cdf8ec4d94)
+![2](https://github.com/lifeIsShore/kundenInformation/assets/124509700/bd44b55d-01c3-4098-9aa9-d813cd1bae74)
 
-![3 (2)](https://github.com/lifeIsShore/kundenInformation/assets/124509700/71245011-3ec6-4880-98a3-20554b84e298)
+![3 (2)](https://github.com/lifeIsShore/kundenInformation/assets/124509700/2e68f3f5-14b0-4e0a-bf0e-8ad2cfb3e780)
 
-![4 (2)](https://github.com/lifeIsShore/kundenInformation/assets/124509700/744d60f4-bfc1-480f-8905-9f048516a640)
+![4 (2)](https://github.com/lifeIsShore/kundenInformation/assets/124509700/760fea60-1f68-410b-b89a-e7ebca01deac)
 
-![5](https://github.com/lifeIsShore/kundenInformation/assets/124509700/28fbaaa1-d44f-49ce-b369-2b04d9820e30)
+![5](https://github.com/lifeIsShore/kundenInformation/assets/124509700/5018c19c-73a4-44db-832d-2ea6ce214548)
 
-![6](https://github.com/lifeIsShore/kundenInformation/assets/124509700/478ee150-b8fd-49d3-9a3c-dcdf97eac1bf)
+![6](https://github.com/lifeIsShore/kundenInformation/assets/124509700/6a9e8d37-5e78-4aca-914e-f714e123df62)
 
-![7](https://github.com/lifeIsShore/kundenInformation/assets/124509700/4437798e-015f-4728-a49f-912a33a10b35)
+![7](https://github.com/lifeIsShore/kundenInformation/assets/124509700/2cf1a9aa-9aff-4fbb-bb10-075cfaa81eb1)
 
-![8](https://github.com/lifeIsShore/kundenInformation/assets/124509700/91c350e8-1733-47c6-bf7c-e1b391dd988b)
+![8](https://github.com/lifeIsShore/kundenInformation/assets/124509700/72fe05fe-5c71-4f2e-a657-25f64f50a394)
 
-![0](https://github.com/lifeIsShore/kundenInformation/assets/124509700/38464ca7-957d-4439-974b-9968acd95962)
-
+![0](https://github.com/lifeIsShore/kundenInformation/assets/124509700/0a158571-0403-40e1-b227-a77713d7b75e)
 
 <h2>Contribution</h2>
 
